@@ -83,8 +83,7 @@ Through this project, the following SQL concepts were practiced:
 * Query optimization and analytical reporting
 
 ## Technologies Used
-
-* MySQL Workbench
+MySQL Workbench
 
 ## Author
 
