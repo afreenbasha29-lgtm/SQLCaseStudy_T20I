@@ -1,7 +1,5 @@
-# SQLCaseStudy_T20I
-A MySQL-based cricket analytics project that analyzes T20 International matches from 2024 using SQL queries, CTEs, joins, aggregate functions and window functions to generate insights on team performance, winning percentages, head-to-head records, match statistics and tournament trends.
-
 # T20I Cricket Analytics using MySQL
+A MySQL-based cricket analytics project that analyzes T20 International matches from 2024 using SQL queries, CTEs, joins, aggregate functions and window functions to generate insights on team performance, winning percentages, head-to-head records, match statistics and tournament trends.
 
 ## Database
 
@@ -86,7 +84,6 @@ Through this project, the following SQL concepts were practiced:
 
 ## Technologies Used
 
-* MySQL
 * MySQL Workbench
 
 ## Author
